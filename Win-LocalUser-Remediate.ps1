@@ -28,7 +28,7 @@
 $userName = "NewUser"
 $userDisplayName = "NewUser"
 $userDesc = "Description"
-$userPass = "Password"
+$userPass = ConvertTo-SecureString "Password" -AsPlainText -Force
 #
 ###############################################################################################################
 #
