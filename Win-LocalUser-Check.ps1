@@ -27,8 +27,6 @@
 #
 $ExitCode=0 # Setting ExitCode Variable to an initial 0
 $userName = "NewUser"
-$userDesc = "New User"
-$userPass = "Password"
 #
 ###############################################################################################################
 #
