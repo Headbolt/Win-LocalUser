@@ -9,7 +9,7 @@
 #  and then exit with an appropriate Exit code.
 #
 #  Intended use is in Microsoft Endpoint Manager, as the "Check" half of a Proactive Remediation Script
-#  The "Remediate" half is found here https://github.com/Headbolt/Maconomy_Shortcut_Remediate
+#  The "Remediate" half is found here https://github.com/Headbolt/Win-LocalUser
 #
 ###############################################################################################################
 #
